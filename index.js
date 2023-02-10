@@ -326,11 +326,14 @@ console.log(b); */
 
 // make a constructor function
 
-function Address(street, city, zipcode){ 
-    this.street = street;
-    this.city = city;
-    this.zipcode = zipcode;
-}
+// function Address(street, city, zipcode){ 
+//     this.street = street;
+//     this.city = city;
+//     this.zipcode = zipcode;
+// }
 
-const address2 = new Address('Lanyon', 'london', 'SE 4W');
-console.log(address2); // This is a constructor function
+// const address2 = new Address('Lanyon', 'london', 'SE 4W');
+// console.log(address2); // This is a constructor function
+
+
+// THis is a test for git !!!
