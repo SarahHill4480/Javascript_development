@@ -333,4 +333,4 @@ function Address(street, city, zipcode){
 }
 
 const address2 = new Address('Lanyon', 'london', 'SE 4W');
-console.log(address2);
+console.log(address2); // This is a constructor function
